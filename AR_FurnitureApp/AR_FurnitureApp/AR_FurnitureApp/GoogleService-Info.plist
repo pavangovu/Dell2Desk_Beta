@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>782467360946-0atra7j6h30fv58iojv4uart2kpl523g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.782467360946-0atra7j6h30fv58iojv4uart2kpl523g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAz162EmyLjzVlkqFiXDukfi_1_wiQoHss</string>
+	<key>GCM_SENDER_ID</key>
+	<string>782467360946</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pavangovu.AR-FurnitureApp</string>
+	<key>PROJECT_ID</key>
+	<string>arfurniture-c1472</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arfurniture-c1472.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:782467360946:ios:58b4d70d3e9c0da40281ab</string>
+</dict>
+</plist>
